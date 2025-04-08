@@ -1,4 +1,4 @@
-import logo from '../assets/img/Logo valorant.png';
+import logo from '../assets/img/escudo.svg';
 
 export const Logo = ({text}) => {
     return (
