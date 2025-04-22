@@ -1,3 +1,4 @@
+import { useChannelDetails } from './useChannelDetails';
 export { useLogin } from './useLogin';
 export { useRegister } from './useRegister'
 export { logout } from './userLogout'
